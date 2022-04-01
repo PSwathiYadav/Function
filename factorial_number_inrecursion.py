@@ -6,3 +6,4 @@ def fact(n):
 n=int(input("num"))
 result=fact(n)
 print(result)
+
